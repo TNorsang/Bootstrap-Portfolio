@@ -1,0 +1,60 @@
+/* My Name Properties */
+#name{
+    background-color: rgb(32, 207, 207);
+    color: white;
+    padding: 19px;
+    margin-top: -8px;
+    margin-left: 125px;
+    margin-bottom: -8px;
+}
+
+/* Background Properties */
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+/* About Me Properties */
+#portfolio{
+    color: rgb(32, 207, 207);
+    font-family: 'Merriweather', serif;
+    padding: 35px;
+    padding-bottom: 12px;
+}
+
+/* Image 1 */
+#img1{
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer Copy Right */
+#copyright{
+    text-align: center;
+    background-color: gray;
+    color: white;
+    margin-top: 139px;
+    margin-bottom: 0px;
+    padding: 34px;
+}
