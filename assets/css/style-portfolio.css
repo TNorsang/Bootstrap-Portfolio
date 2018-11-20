@@ -14,7 +14,7 @@ body{
 }
 
 /* About Me Properties */
-#portfolio{
+#allheaders{
     color: rgb(32, 207, 207);
     font-family: 'Merriweather', serif;
     padding: 35px;
@@ -31,28 +31,14 @@ body{
     height: auto;
 }
 
+
+/* main white box */
 #midbox{
     background-color: white;
     padding: 35px;
     margin: 2px;
     margin-top: -25px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,0 +1,40 @@
+/* My Name Properties */
+#name{
+    background-color: rgb(32, 207, 207);
+    color: white;
+    padding: 19px;
+    margin-top: -8px;
+    margin-left: 125px;
+    margin-bottom: -8px;
+}
+
+/* Background Properties */
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+/* all header Properties */
+#allheaders{
+    color: rgb(32, 207, 207);
+    font-family: 'Merriweather', serif;
+    padding: 35px;
+    padding-bottom: 12px;
+}
+
+/* Main white box */
+#midbox{
+    background-color: white;
+    padding: 35px;
+    margin: 2px;
+    margin-top: -25px;
+}
+
+/* Footer Copy Right */
+#copyright{
+    text-align: center;
+    background-color: gray;
+    color: white;
+    margin-top: 139px;
+    margin-bottom: 0px;
+    padding: 34px;
+}
