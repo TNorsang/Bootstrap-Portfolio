@@ -31,6 +31,68 @@ body{
     height: auto;
 }
 
+/* Texts on the images */
+#h1 {
+    background-color: rgb(32, 207, 207);
+    color: white;
+    text-align: center;
+    width: 91%;
+    height: 17%;
+    position: absolute;
+    margin-top: 39%;
+    margin-left: 0.3%;
+}
+#h2 {
+    background-color: rgb(32, 207, 207);
+    color: white;
+    text-align: center;
+    width: 91%;
+    height: 18%;
+    position: absolute;
+    margin-top: 66%;
+    margin-left: 0.3%;
+}
+#h3 {
+    background-color: rgb(32, 207, 207);
+    color: white;
+    text-align: center;
+    width: 91%;
+    height: 18%;
+    position: absolute;
+    margin-top: 32%;
+    margin-left: 0.3%;
+}
+#h4 {
+    background-color: rgb(32, 207, 207);
+    color: white;
+    text-align: center;
+    width: 73%;
+    height: 18%;
+    position: absolute;
+    margin-top: 34%;
+    margin-left: 0.3%;
+}
+#h5 {
+    background-color: rgb(32, 207, 207);
+    color: white;
+    text-align: center;
+    width: 91%;
+    height: 18%;
+    position: absolute;
+    margin-top: 54%;
+    margin-left: 0.3%;
+}
+#h6 {
+    background-color: rgb(32, 207, 207);
+    color: white;
+    text-align: center;
+    width: 87%;
+    height: 18%;
+    position: absolute;
+    margin-top: 59%;
+    margin-left: 0.3%;
+}
+
 
 /* main white box */
 #midbox{
